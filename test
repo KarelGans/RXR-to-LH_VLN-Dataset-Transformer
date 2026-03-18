@@ -1,0 +1,533 @@
+{
+    "path_id": 0,
+    "split": "train",
+    "scan": "SN83YJsR3w2",
+    "heading": 2.6315649473774565,
+    "path": [
+        "4471fcf26b3847ed88ce41eca5ecb13d",
+        "b2b0b597ef2f4a1c86cbbe335dc2dcc1",
+        "16708c282c26467e8e36cc00812c289c"
+    ],
+    "instruction_id": 0,
+    "annotator_id": 0,
+    "language": "en-US",
+    "instruction": "You will start by standing in front of a glass door and on your right is a doorway. Turn around and you will see a doorway to the washroom. Walk towards the doorway and inside the washroom. Once you're there, stand in between the sink and the bathtub and once you're there, you're done.",
+    "timed_instruction": [
+        {
+            "end_time": 1.5,
+            "word": "You",
+            "start_time": 1.0
+        },
+        {
+            "end_time": 1.6,
+            "word": "will",
+            "start_time": 1.5
+        },
+        {
+            "start_time": 1.6,
+            "end_time": 2.2,
+            "word": "start"
+        },
+        {
+            "start_time": 2.2,
+            "word": "by",
+            "end_time": 2.5
+        },
+        {
+            "word": "standing",
+            "start_time": 2.5,
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "end_time": 3.6,
+            "word": "in"
+        },
+        {
+            "word": "front",
+            "start_time": 3.6,
+            "end_time": 3.8
+        },
+        {
+            "word": "of",
+            "start_time": 3.8,
+            "end_time": 4.4
+        },
+        {
+            "word": "a",
+            "start_time": 4.4,
+            "end_time": 5.5
+        },
+        {
+            "end_time": 6.0,
+            "word": "glass",
+            "start_time": 5.5
+        },
+        {
+            "start_time": 6.0,
+            "word": "door",
+            "end_time": 6.2
+        },
+        {
+            "word": "and",
+            "end_time": 7.7,
+            "start_time": 6.2
+        },
+        {
+            "word": "on",
+            "start_time": 7.7,
+            "end_time": 8.3
+        },
+        {
+            "start_time": 8.3,
+            "end_time": 8.5,
+            "word": "your"
+        },
+        {
+            "start_time": 8.5,
+            "word": "right",
+            "end_time": 8.6
+        },
+        {
+            "word": "is",
+            "end_time": 9.1,
+            "start_time": 8.6
+        },
+        {
+            "word": "a",
+            "start_time": 9.1,
+            "end_time": 9.5
+        },
+        {
+            "word": "doorway.",
+            "start_time": 9.5,
+            "end_time": 10.3
+        },
+        {
+            "start_time": 10.3,
+            "end_time": 12.0,
+            "word": "Turn"
+        },
+        {
+            "start_time": 12.0,
+            "end_time": 12.7,
+            "word": "around"
+        },
+        {
+            "word": "and",
+            "start_time": 12.7,
+            "end_time": 12.9
+        },
+        {
+            "word": "you",
+            "end_time": 13.0,
+            "start_time": 12.9
+        },
+        {
+            "start_time": 13.0,
+            "word": "will",
+            "end_time": 13.0
+        },
+        {
+            "word": "see",
+            "end_time": 13.4,
+            "start_time": 13.0
+        },
+        {
+            "word": "a",
+            "start_time": 13.4,
+            "end_time": 14.9
+        },
+        {
+            "end_time": 15.3,
+            "start_time": 14.9,
+            "word": "doorway"
+        },
+        {
+            "start_time": 15.3,
+            "end_time": 15.6,
+            "word": "to"
+        },
+        {
+            "word": "the",
+            "start_time": 15.6,
+            "end_time": 15.9
+        },
+        {
+            "word": "washroom.",
+            "end_time": 16.5,
+            "start_time": 15.9
+        },
+        {
+            "start_time": 18.2,
+            "word": "Walk",
+            "end_time": 18.9
+        },
+        {
+            "word": "towards",
+            "start_time": 20.6,
+            "end_time": 21.2
+        },
+        {
+            "start_time": 21.2,
+            "word": "the",
+            "end_time": 21.4
+        },
+        {
+            "word": "doorway",
+            "end_time": 22.8,
+            "start_time": 21.4
+        },
+        {
+            "word": "and",
+            "start_time": 22.8,
+            "end_time": 23.3
+        },
+        {
+            "start_time": 23.3,
+            "end_time": 23.8,
+            "word": "inside"
+        },
+        {
+            "word": "the",
+            "start_time": 23.8,
+            "end_time": 24.0
+        },
+        {
+            "start_time": 24.0,
+            "word": "washroom.",
+            "end_time": 24.5
+        },
+        {
+            "word": "Once",
+            "end_time": 26.7,
+            "start_time": 26.2
+        },
+        {
+            "word": "you're",
+            "end_time": 26.9,
+            "start_time": 26.7
+        },
+        {
+            "word": "there,",
+            "end_time": 27.2,
+            "start_time": 26.9
+        },
+        {
+            "word": "stand",
+            "start_time": 27.2,
+            "end_time": 28.2
+        },
+        {
+            "start_time": 29.0,
+            "word": "in",
+            "end_time": 29.2
+        },
+        {
+            "word": "between",
+            "start_time": 29.2,
+            "end_time": 29.3
+        },
+        {
+            "start_time": 29.3,
+            "word": "the",
+            "end_time": 30.4
+        },
+        {
+            "word": "sink",
+            "end_time": 30.8,
+            "start_time": 30.4
+        },
+        {
+            "end_time": 31.2,
+            "start_time": 30.8,
+            "word": "and"
+        },
+        {
+            "word": "the",
+            "end_time": 31.3,
+            "start_time": 31.2
+        },
+        {
+            "word": "bathtub",
+            "end_time": 31.7,
+            "start_time": 31.3
+        },
+        {
+            "end_time": 33.9,
+            "word": "and",
+            "start_time": 33.2
+        },
+        {
+            "word": "once",
+            "start_time": 33.9,
+            "end_time": 34.2
+        },
+        {
+            "word": "you're",
+            "end_time": 34.3,
+            "start_time": 34.2
+        },
+        {
+            "word": "there,",
+            "start_time": 34.3,
+            "end_time": 34.5
+        },
+        {
+            "start_time": 34.5,
+            "end_time": 35.1,
+            "word": "you're"
+        },
+        {
+            "word": "done.",
+            "start_time": 35.1,
+            "end_time": 35.3
+        }
+    ],
+    "edit_distance": 0.07692307692307693
+}
+{
+    "path_id": 3,
+    "split": "train",
+    "scan": "8WUmhLawc2A",
+    "heading": 5.346563746609371,
+    "path": [
+        "5456afbdce1d49489a6d1a178b3a7840",
+        "c42200c0f39d4349835954277e499f50",
+        "ffaf24e85435430ea07c697b9332cfde",
+        "04f548967cfc4e98a79d1e2494b74606",
+        "01b439d39a8f412fa1837be7afb45254"
+    ],
+    "instruction_id": 6,
+    "annotator_id": 12,
+    "language": "hi-IN",
+    "instruction": "भोजनकक्ष के कोने में दाएं हाथ में लकड़ी के खाने के मेज़ को पार करते हुए सीधे चलिये। टेबल पर रखे चिराग,बाएं हाथ में जो है,उसे पार करिये और सीधे चलिये।आगे से फिर बाएं मुड़िये और सीधा बैठकखाना में प्रवेश करिये,ठीक छोटे सोफे के पीछे। ",
+    "timed_instruction": [
+        {
+            "end_time": 63.4,
+            "word": "भोजनकक्ष",
+            "start_time": 61.5
+        },
+        {
+            "start_time": 63.4,
+            "end_time": 63.7,
+            "word": "के"
+        },
+        {
+            "end_time": 64.3,
+            "word": "कोने",
+            "start_time": 63.7
+        },
+        {
+            "start_time": 64.3,
+            "end_time": 64.5,
+            "word": "में"
+        },
+        {
+            "word": "दाएं",
+            "start_time": 68.2,
+            "end_time": 68.9
+        },
+        {
+            "end_time": 69,
+            "start_time": 68.9,
+            "word": "हाथ"
+        },
+        {
+            "word": "में",
+            "end_time": 69.3,
+            "start_time": 69
+        },
+        {
+            "word": "लकड़ी",
+            "start_time": 77.2,
+            "end_time": 77.8
+        },
+        {
+            "word": "के",
+            "start_time": 77.8,
+            "end_time": 77.9
+        },
+        {
+            "end_time": 78.2,
+            "word": "खाने",
+            "start_time": 77.9
+        },
+        {
+            "word": "के",
+            "start_time": 78.2,
+            "end_time": 78.3
+        },
+        {
+            "start_time": 78.3,
+            "word": "मेज़",
+            "end_time": 78.7
+        },
+        {
+            "word": "को",
+            "start_time": 78.7,
+            "end_time": 78.8
+        },
+        {
+            "word": "पार",
+            "end_time": 79.1,
+            "start_time": 78.8
+        },
+        {
+            "start_time": 79.1,
+            "end_time": 79.4,
+            "word": "करते"
+        },
+        {
+            "word": "हुए",
+            "end_time": 79.6,
+            "start_time": 79.4
+        },
+        {
+            "word": "सीधे",
+            "end_time": 83.8,
+            "start_time": 83.2
+        },
+        {
+            "word": "चलिये।",
+            "end_time": 84.2,
+            "start_time": 83.8
+        },
+        {
+            "start_time": 110.3,
+            "word": "टेबल",
+            "end_time": 110.9
+        },
+        {
+            "word": "पर",
+            "start_time": 110.9,
+            "end_time": 111.1
+        },
+        {
+            "start_time": 111.1,
+            "end_time": 111.4,
+            "word": "रखे"
+        },
+        {
+            "end_time": 111.8,
+            "start_time": 111.4,
+            "word": "चिराग,बाएं"
+        },
+        {
+            "end_time": 115,
+            "start_time": 114.9,
+            "word": "हाथ"
+        },
+        {
+            "word": "में",
+            "start_time": 115,
+            "end_time": 115.2
+        },
+        {
+            "word": "जो",
+            "start_time": 115.2,
+            "end_time": 115.4
+        },
+        {
+            "end_time": 116,
+            "word": "है,उसे",
+            "start_time": 115.5
+        },
+        {
+            "word": "पार",
+            "end_time": 116.2,
+            "start_time": 116
+        },
+        {
+            "start_time": 116.2,
+            "end_time": 116.6,
+            "word": "करिये"
+        },
+        {
+            "word": "और",
+            "start_time": 116.6,
+            "end_time": 117.1
+        },
+        {
+            "end_time": 117.4,
+            "word": "सीधे",
+            "start_time": 117.1
+        },
+        {
+            "word": "चलिये।आगे",
+            "start_time": 117.4,
+            "end_time": 117.7
+        },
+        {
+            "word": "से",
+            "end_time": 129.2,
+            "start_time": 129.1
+        },
+        {
+            "word": "फिर",
+            "end_time": 129.5,
+            "start_time": 129.2
+        },
+        {
+            "word": "बाएं",
+            "end_time": 129.6,
+            "start_time": 129.5
+        },
+        {
+            "end_time": 130,
+            "start_time": 129.6,
+            "word": "मुड़िये"
+        },
+        {
+            "word": "और",
+            "end_time": 143.3,
+            "start_time": 142.7
+        },
+        {
+            "end_time": 143.6,
+            "word": "सीधा",
+            "start_time": 143.3
+        },
+        {
+            "start_time": 144.2,
+            "end_time": 144.5,
+            "word": "बैठकखाना"
+        },
+        {
+            "word": "में",
+            "start_time": 144.5,
+            "end_time": 144.6
+        },
+        {
+            "start_time": 144.6,
+            "end_time": 145.5,
+            "word": "प्रवेश"
+        },
+        {
+            "word": "करिये,ठीक",
+            "start_time": 145.5,
+            "end_time": 145.9
+        },
+        {
+            "end_time": 159.8,
+            "start_time": 159.4,
+            "word": "छोटे"
+        },
+        {
+            "word": "सोफे",
+            "start_time": 159.8,
+            "end_time": 160.1
+        },
+        {
+            "start_time": 160.1,
+            "end_time": 160.3,
+            "word": "के"
+        },
+        {
+            "word": "पीछे।",
+            "end_time": 161.4,
+            "start_time": 160.3
+        }
+    ],
+    "edit_distance": 0.14414414414414414
+}
